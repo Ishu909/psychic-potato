@@ -1,5 +1,4 @@
 # psychic-potato
-My First GAme :
-Rock Paper Scissors:
+Games
 (Build In C Language)
 :)
